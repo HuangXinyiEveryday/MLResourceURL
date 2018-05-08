@@ -22,5 +22,5 @@ ted演讲
 
 MIT公开课
 
-
+斯坦福[http://web.stanford.edu](http://web.stanford.edu)
 
