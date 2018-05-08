@@ -1,6 +1,6 @@
 ##### 1.数据科学领域常用的Python库
 
-[https://mp.weixin.qq.com/s?\_\_biz=MzI5MzIwNDI1MQ==∣=2650122425&idx=3&sn=f7918ce7d003e19de6083910c5618c61&chksm=f474b0cdc30339dbb81721c9d33a90c8a4376b5335bb34c72516375b587a2d2ff6a77bb0164a&mpshare=1&scene=23&srcid=0413j3BivESGgYQ5vpoEESTg%23rd](https://mp.weixin.qq.com/s?__biz=MzI5MzIwNDI1MQ==&mid=2650122425&idx=3&sn=f7918ce7d003e19de6083910c5618c61&chksm=f474b0cdc30339dbb81721c9d33a90c8a4376b5335bb34c72516375b587a2d2ff6a77bb0164a&mpshare=1&scene=23&srcid=0413j3BivESGgYQ5vpoEESTg%23rd)
+[https://mp.weixin.qq.com/s?\_\_biz=MzI5MzIwNDI1MQ==∣=2650122425&idx=3&sn=f7918ce7d003e19de6083910c5618c61&chksm=f474b0cdc30339dbb81721c9d33a90c8a4376b5335bb34c72516375b587a2d2ff6a77bb0164a&mpshare=1&scene=23&srcid=0413j3BivESGgYQ5vpoEESTg%23rd](https://mp.weixin.qq.com/s?__biz=MzI5MzIwNDI1MQ==∣=2650122425&idx=3&sn=f7918ce7d003e19de6083910c5618c61&chksm=f474b0cdc30339dbb81721c9d33a90c8a4376b5335bb34c72516375b587a2d2ff6a77bb0164a&mpshare=1&scene=23&srcid=0413j3BivESGgYQ5vpoEESTg%23rd)
 
 ##### 2.无监督学习
 
