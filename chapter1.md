@@ -1,4 +1,4 @@
-# 免费公开课网站
+免费公开课网站
 
 [https://www.coursera.org](https://www.coursera.org)
 
@@ -21,6 +21,4 @@ ted演讲
 MIT公开课
 
 [https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-204-computer-algorithms-in-systems-engineering-spring-2010/lecture-notes/](https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-204-computer-algorithms-in-systems-engineering-spring-2010/lecture-notes/)
-
-
 
