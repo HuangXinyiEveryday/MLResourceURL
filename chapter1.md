@@ -1,6 +1,4 @@
-# First Chapter
-
-免费公开课网站
+# 免费公开课网站
 
 [https://www.coursera.org](https://www.coursera.org/)
 
@@ -23,6 +21,4 @@ ted演讲[https://www.ted.com](https://www.ted.com/)
 MIT公开课
 
 斯坦福公开课[http://web.stanford.edu](http://web.stanford.edu/)
-
-
 
