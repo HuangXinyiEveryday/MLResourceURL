@@ -14,6 +14,8 @@
 
 [https://blog.csdn.net/heyc861221/article/details/80131325](https://blog.csdn.net/heyc861221/article/details/80131325)
 
+[https://blog.csdn.net/coderpai/article/details/70146524](https://blog.csdn.net/coderpai/article/details/70146524)
+
 4.吴恩达机器学习公开课 总结笔记及作业代码
 
 [https://blog.csdn.net/qq\_27008079/article/details/71104748](https://blog.csdn.net/qq_27008079/article/details/71104748)
