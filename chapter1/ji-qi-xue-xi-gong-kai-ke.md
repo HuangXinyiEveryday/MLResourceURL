@@ -10,9 +10,7 @@
 
 [http://web.stanford.edu/class/cs224n/syllabus.html](http://web.stanford.edu/class/cs224n/syllabus.html)
 
-4.机器学习
+4.cmu公开课机器学习
 
 [http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
-
-
 
