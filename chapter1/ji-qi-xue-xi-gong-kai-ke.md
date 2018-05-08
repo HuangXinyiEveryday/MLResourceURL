@@ -6,7 +6,7 @@
 
 [http://web.stanford.edu/class/cs20si/syllabus.html](http://web.stanford.edu/class/cs20si/syllabus.html)
 
-3.
+3.深度学习自然语言处理公开课CS224n
 
 [http://web.stanford.edu/class/cs224n/syllabus.html](http://web.stanford.edu/class/cs224n/syllabus.html)
 
