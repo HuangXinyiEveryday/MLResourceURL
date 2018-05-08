@@ -14,6 +14,8 @@
 
 [https://alison.com](https://alison.com)
 
+[https://www.udacity.com](https://www.udacity.com)
+
 ted演讲
 
 [https://www.ted.com](https://www.ted.com)
