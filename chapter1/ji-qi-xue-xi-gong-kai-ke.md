@@ -14,5 +14,5 @@
 
 [http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 
-5.MIT公开课 Prediction: Machine Learning and Statistics
+
 
