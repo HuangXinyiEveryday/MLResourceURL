@@ -24,6 +24,8 @@
 
 [https://www.jisuanke.com/minicourse](https://www.jisuanke.com/minicourse)
 
+
+
 学术课程，包括竞赛培训等，全免费
 
 5.极客学院
