@@ -6,3 +6,7 @@
 
 [http://web.stanford.edu/class/cs20si/syllabus.html](http://web.stanford.edu/class/cs20si/syllabus.html)
 
+3.
+
+[http://web.stanford.edu/class/cs224n/syllabus.html](http://web.stanford.edu/class/cs224n/syllabus.html)
+
