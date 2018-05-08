@@ -20,5 +20,7 @@
 
 [https://blog.csdn.net/qq\_27008079/article/details/71104748](https://blog.csdn.net/qq_27008079/article/details/71104748)
 
-5.
+5.【深度学习】详细的神经网络架构图
+
+
 
