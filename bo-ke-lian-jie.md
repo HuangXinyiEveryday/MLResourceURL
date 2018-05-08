@@ -22,5 +22,5 @@
 
 5.【深度学习】详细的神经网络架构图
 
-
+[https://blog.csdn.net/Taily\_Duan/article/details/78350048?locationNum=5&fps=1](https://blog.csdn.net/Taily_Duan/article/details/78350048?locationNum=5&fps=1)
 
