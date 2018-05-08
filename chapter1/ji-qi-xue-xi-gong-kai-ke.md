@@ -14,3 +14,7 @@
 
 [http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 
+5.斯坦福大学机器学习
+
+[http://www.holehouse.org/mlclass/](http://www.holehouse.org/mlclass/)
+
