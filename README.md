@@ -1,13 +1,10 @@
-# My Awesome Book
+# 
 
 资源链接分享，包括公开课的网站、博客的链接以及相关视频资源链接
 
 极客导航，程序员自己的导航
 
 [http://www.jikedaohang.com](http://www.jikedaohang.com)
-
-  
-
 
 1.菜鸟教程
 
@@ -38,7 +35,4 @@
 6.麦子学院
 
 [http://www.maizitime.com](http://www.maizitime.com)
-
-  
-
 
