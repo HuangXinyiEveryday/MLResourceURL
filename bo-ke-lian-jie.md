@@ -6,3 +6,13 @@
 
 [https://blog.csdn.net/chenyefei/article/details/55808084](https://blog.csdn.net/chenyefei/article/details/55808084)
 
+3.入门Python与机器学习
+
+[https://blog.csdn.net/heyc861221/article/details/80131325](https://blog.csdn.net/heyc861221/article/details/80131325)
+
+[https://blog.csdn.net/kevinelstri/article/details/62043338](https://blog.csdn.net/kevinelstri/article/details/62043338)
+
+
+
+
+
