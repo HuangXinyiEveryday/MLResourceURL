@@ -16,9 +16,7 @@
 
 [https://www.udacity.com](https://www.udacity.com)
 
-ted演讲
-
-[https://www.ted.com](https://www.ted.com)
+ted演讲  [https://www.ted.com](https://www.ted.com)
 
 MIT公开课
 
